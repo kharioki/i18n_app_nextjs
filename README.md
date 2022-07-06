@@ -23,3 +23,4 @@ pnpm create next-app --example i18n-routing i18n-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+# i18n_app_nextjs
